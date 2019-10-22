@@ -10,7 +10,7 @@ With this program you can convert many currencies in a simple and fast way, with
 * Use an algorithm to solve a technical need                                       
 * Code effectively using the right tools                                          
 * Conceptualize the whole of its application by describing its structure (Entities / Domain Objects) 
-* Use **PySide 2** for the UI, **VirtualEnv**, **CurrencyConverter** 
+* Use **PySide 2** for the UI, **Pipenv**, **CurrencyConverter** 
 
 How does it work ? 
 -------------------
